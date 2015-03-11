@@ -1,0 +1,11 @@
+1. 
+5♠ + 6♣
+5♣ + 6♣
+
+2. Yes because every number card has to be taken out with a pair. There can't be a number card because that would leave one card
+    left, but that wouldn't be possible. It must be a J, Q, and K.
+
+3. The game is highly luck based with very little strategy involved because each card can only be taken out if one other card is
+    present. There is no benefit in picking other number cards first. I guess as you get farther into it, it would be best to
+    save the triple pair as your last replacement because you would have a higher probability in drawing a card that is
+    able to pair with a current card on the table.
