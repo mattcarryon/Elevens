@@ -25,13 +25,13 @@ Deal cards
     lose
     
 
-3. No, it does not check for legality of a move
+3. No, it does not check for legality of a move -- correction: does not replace cards
 
 4a. in the constructor
 
 b. the isLegal method and anotherPlayIsPossible method
 
-c. J 6 2 A 4
+c. J 6 2 A 4 -- should have been index values not cards
 
 5.
 for(int i = 0; i < cIndexes.size(); i++){
