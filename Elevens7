@@ -1,0 +1,43 @@
+1. A deck of cards and a game board
+    BOARD_SIZE
+    RANKS
+    SUITS
+    POINT_VALUES
+    cards
+    deck
+    I_AM_DEBUGGING
+
+2. 
+
+Deal cards
+  no cards in deck or stack 
+    win game
+  
+  if valid play available
+    player select two cards
+      if legal play
+        replace cards
+        loop back
+      else
+        dont do anything
+      loop back to validity checker
+  else
+    lose
+    
+
+3. No, it does not check for legality of a move
+
+4a. in the constructor
+
+b. the isLegal method and anotherPlayIsPossible method
+
+c. J 6 2 A 4
+
+5.
+for(int i = 0; i < cIndexes.size(); i++){
+  System.out.println(cIndex.get(i));
+}
+
+6. anotherPlayIsPossible
+    this is because it needs to differentiate between other pairs that it has already detected and there could be
+    multiple pairs with one card because of multiple cards of the same number.
