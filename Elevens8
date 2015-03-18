@@ -1,0 +1,14 @@
+1. Similarities:
+      All have the same win condition
+      All have the same deck of cards
+      Same dealing methods
+      
+    Differences:
+      Their play methods are different (different legality checkers)
+      Different board sizes
+      Different point values
+      
+2. The ElevensBoard extends the Board class, allowing the ElevensBoard to use the super() method to 
+    make calls to methods in the Board class. This allows the ElevensBoard to set instance variables in the board class.
+    
+3. No, they do not cover point value differences.
